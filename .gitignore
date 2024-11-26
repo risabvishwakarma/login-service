@@ -31,3 +31,52 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+*.out
+
+# Maven / Gradle directories
+.mvn/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Application-specific files
+.env
+*.properties
+*.yml
+*.yaml
+
+# Libraries and other files
+lib/
+*.jar
+*.war
+*.ear
+
+# Temp files and cache
+*.swp
+*.tmp
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Logs and output files
+logs/
+
+# Database files
+*.h2.db
+*.mv.db
+
+# Test result files
+test-output/
+
+# Custom exclusions
+!.gitkeep
+
